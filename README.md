@@ -12,7 +12,8 @@ This Swift application employs the MVVM architecture, interacting seamlessly wit
 - For image loading no implementation added either of third party like SDWebImage, KingFisher or any native custom way.
 
 # Requirement
-- Has developed this on XCode 14.2 with swift version 5
+- Has developed this on XCode 14.2 with latest swift version 
+- UIKIT + AutoLayouts are used
 
 ## Running the Demo
 1. Just simply open the xcodeproj file and selected any desire device and press command+R 
